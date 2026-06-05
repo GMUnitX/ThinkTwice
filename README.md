@@ -45,7 +45,7 @@ ThinkTwice 是一个轻量级的推理增强框架，无需重新训练或微调
 
 > 模型在易产生“死亡幻觉”的年龄问题、历史时序等陷阱上，主动中断推理或标注不确定性。
 
-详细评测日志和评分标准见https://gmunitx.com/index.php/thinktwice/。
+详细评测日志和评分标准见https://gmunitx.com/index.php/thinktwice
 
 ---
 
